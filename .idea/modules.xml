@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms/test-cms.iml" filepath="$PROJECT_DIR$/cms/test-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/essentials/test-essentials.iml" filepath="$PROJECT_DIR$/essentials/test-essentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository-data/test-repository-data.iml" filepath="$PROJECT_DIR$/repository-data/test-repository-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository-data/config/test-repository-data-config.iml" filepath="$PROJECT_DIR$/repository-data/config/test-repository-data-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository-data/content/test-repository-data-content.iml" filepath="$PROJECT_DIR$/repository-data/content/test-repository-data-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository-data/webfiles/test-repository-data-webfiles.iml" filepath="$PROJECT_DIR$/repository-data/webfiles/test-repository-data-webfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/test-site.iml" filepath="$PROJECT_DIR$/site/test-site.iml" />
+    </modules>
+  </component>
+</project>

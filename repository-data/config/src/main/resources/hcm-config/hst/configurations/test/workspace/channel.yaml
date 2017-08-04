@@ -1,0 +1,8 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/test/hst:workspace/hst:channel:
+      jcr:primaryType: hst:channel
+      hst:name: My Hippo Project
+      hst:type: website
+      /hst:channelinfo:
+        jcr:primaryType: hst:channelinfo

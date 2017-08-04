@@ -1,0 +1,7 @@
+group: 
+  name: test
+  after: hippo-cms
+project: test
+module: 
+  name: test-repository-data-content
+  after: test-repository-data-config

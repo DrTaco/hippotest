@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>test</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>cms7</selectedProjectPackage>
+  <selectedBeansPackage>cms7.beans</selectedBeansPackage>
+  <selectedComponentsPackage>cms7.components</selectedComponentsPackage>
+  <selectedRestPackage>cms7.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>
